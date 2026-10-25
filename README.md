@@ -8,7 +8,7 @@ Usa tus [**PlayStation Access Controller**](https://www.playstation.com/es-mx/ac
 
 [![Última versión](https://img.shields.io/github/v/release/FunWaterCo/TANDEM-releases?label=%C3%BAltima%20versi%C3%B3n&color=1f6feb&style=for-the-badge)](../../releases/latest)
 [![Windows 10 y 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0f766e?style=for-the-badge&logo=windows&logoColor=white)](#cómo-empezar)
-[![Descargas](https://img.shields.io/github/downloads/FunWaterCo/TANDEM-releases/total?label=descargas&color=7c3aed&style=for-the-badge)](../../releases)
+[![Descargas](https://img.shields.io/github/downloads/FunWaterCo/TANDEM-releases/total?label=descargas&color=7c3aed&style=for-the-badge&cacheSeconds=3600)](../../releases)
 
 ### [Descargar la última versión](../../releases/latest)
 
