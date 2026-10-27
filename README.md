@@ -12,6 +12,8 @@ Usa tus [**PlayStation Access Controller**](https://www.playstation.com/es-mx/ac
 
 ### [Descargar la última versión](../../releases/latest)
 
+En español y en inglés · *Spanish and English* · [Juegos y problemas conocidos](COMPATIBILIDAD.md) · [Games and known issues](COMPATIBILITY.md)
+
 </div>
 
 ---
@@ -108,6 +110,8 @@ Los dos controladores se instalan con el permiso de Windows de la primera vez. S
 
 ## Preguntas frecuentes
 
+Para juegos concretos (FiveM, GTA V, No More Heroes, Valorant…) y problemas que ya conocemos, mira **[Juegos y problemas conocidos](COMPATIBILIDAD.md)**.
+
 <details>
 <summary><b>¿Para quien está hecho TANDEM?</b></summary>
 
@@ -162,6 +166,7 @@ TANDEM te avisa solo y te cuenta qué cambia. Si prefieres hacerlo a mano, desca
 
 :/
 Limitaciones del Vanguard Anticheat para protegerse de programas que remapean inputs. No quise indagar más al respecto para ver si podíamos forzarlo a funcionar por miedo a que nos baneen la cuenta, así que de momento no creo que sea posible utilizarlo en juegos que usen Vanguard. 
+Más detalles en [Juegos y problemas conocidos](COMPATIBILIDAD.md#valorant).
 </details>
 
 <details>
