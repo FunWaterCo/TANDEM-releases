@@ -12,7 +12,7 @@ Usa tus [**PlayStation Access Controller**](https://www.playstation.com/es-mx/ac
 
 ### [Descargar la última versión](../../releases/latest)
 
-En español y en inglés · *Spanish and English* · [Juegos y problemas conocidos](COMPATIBILIDAD.md) · [Games and known issues](COMPATIBILITY.md)
+**Español** · [English](README.en.md) · [Juegos y problemas conocidos](COMPATIBILIDAD.md)
 
 </div>
 
@@ -46,6 +46,8 @@ Tus botones y stick mandan **teclas, clics y cursor**: macros, atajos y mucho m�
 </td>
 </tr>
 </table>
+
+Todo el programa está en **español e inglés**: te pregunta el idioma la primera vez que lo abres, y lo cambias cuando quieras en *Ajustes*.
 
 ## Cómo empezar
 
