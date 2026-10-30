@@ -41,13 +41,13 @@ Each Access Controller is **its own Xbox controller**: great for two players.
 <td width="33%" valign="top">
 
 ### Keyboard and mouse
-Your buttons and stick send **keys, clicks and cursor movement**: macros, shortcuts and much more.
+Your buttons and stick send **keys, clicks and cursor movement**: macros, shortcuts and much more, with different settings for each controller profile if you like.
 
 </td>
 </tr>
 </table>
 
-The whole program is available in **Spanish and English**: it asks for your language the first time you open it, and you can change it anytime in *Settings*.
+The whole program is available in **Spanish and English**: it asks for your language the first time you open it, and you can change it anytime in *Settings*. There's also a **dark mode**, in *Settings* or in the icon menu next to the clock.
 
 ## Getting started
 
