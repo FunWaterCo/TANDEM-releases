@@ -41,13 +41,13 @@ Cada Access es **su propio mando**: ideal para jugar dos personas.
 <td width="33%" valign="top">
 
 ### Teclado y ratón
-Tus botones y stick mandan **teclas, clics y cursor**: macros, atajos y mucho más.
+Tus botones y stick mandan **teclas, clics y cursor**: macros, atajos y mucho más, con ajustes distintos en cada perfil de tu control si quieres.
 
 </td>
 </tr>
 </table>
 
-Todo el programa está en **español e inglés**: te pregunta el idioma la primera vez que lo abres, y lo cambias cuando quieras en *Ajustes*.
+Todo el programa está en **español e inglés**: te pregunta el idioma la primera vez que lo abres, y lo cambias cuando quieras en *Ajustes*. También tiene **modo oscuro**, en *Ajustes* o en el menú del icono junto al reloj.
 
 ## Cómo empezar
 
